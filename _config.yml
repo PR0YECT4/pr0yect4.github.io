@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "es-ES"
+title                    : "PROYECT4"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "PROYECT4"
+description              : "ASOC CANARIA PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS Y EL TERRITORIO"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/PROYECT4-logo-1080x1080.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -81,17 +81,17 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : pr0yect4
 facebook:
-  username               :
+  username               : pr0yect4
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : PROYECT4 # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "PROYECT4"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Hacia la distribución equitativa de la riqueza, la igualdad de oportunidades, el empoderamiento y el futuro sostenible de las personas en la tierra."
+  location         : "Islas Canarias"
+  email            : mail@proyect4.eu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -134,13 +134,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://twitter.com/PR0YECT4
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://facebook.com/PR0YECT4
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/PR0YECT4
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://instagram.com/PR0YECT4
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkein"
+      url: https://instagram.com/PR0YECT4
 
 
 # Reading Files
