@@ -115,7 +115,7 @@ author:
       url: "mailto:mail@proyect4.eu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://proyect4.eu"
+      # url: "https://proyect4.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pr0yect4"
@@ -128,16 +128,19 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/pr0yect4"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/PR0YECT4"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/PR0YECT4
+      # url: https://twitter.com/PR0YECT4
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://facebook.com/PR0YECT4
+      # url: https://facebook.com/PR0YECT4
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/PR0YECT4
@@ -149,10 +152,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/PR0YECT4
+      # url: https://instagram.com/PR0YECT4
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: https://linkedin.com/PR0YECT4
+      # url: https://linkedin.com/PR0YECT4
 
 
 # Reading Files
