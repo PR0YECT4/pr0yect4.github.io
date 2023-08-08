@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail@proyect4.eu"
+      # url: "mailto:mail@proyect4.eu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://proyect4.eu"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/pr0yect4"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pr0yect4"
+      # url: "https://github.com/pr0yect4"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/pr0yect4"
