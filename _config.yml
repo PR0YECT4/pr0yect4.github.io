@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-ES"
@@ -106,28 +106,28 @@ analytics:
 author:
   name             : "PROYECT4"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hacia la distribución equitativa de la riqueza, la igualdad de oportunidades, el empoderamiento y el futuro sostenible de las personas en la tierra."
+  bio              : "ASOC CANARIA PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS Y EL TERRITORIO."
   location         : "Islas Canarias"
   email            : mail@proyect4.eu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:mail@proyect4.eu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://proyect4.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/pr0yect4"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/pr0yect4"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/pr0yect4"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/pr0yect4"
 
 # Site Footer
 footer:
@@ -152,7 +152,7 @@ footer:
       url: https://instagram.com/PR0YECT4
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkein"
-      url: https://instagram.com/PR0YECT4
+      url: https://linkedin.com/PR0YECT4
 
 
 # Reading Files
