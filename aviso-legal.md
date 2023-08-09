@@ -1,3 +1,11 @@
+---
+title: "Aviso Legal y Política de Privacidad"
+categories:
+  - PROYECT4
+tags:
+  - legal
+---
+
 ## Aviso Legal y Política de Privacidad
 
 En esta web se respetan y cuidan los datos personales de los usuarios. Como persona usuaria debes saber que tus derechos están garantizados. Nos esforzamos por crear un espacio seguro y confiable.
