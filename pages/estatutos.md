@@ -1,10 +1,9 @@
 ---
-layout: page
-title: Estatutos
-description: Estatutos de PROYECT4 - Estas son las normas en las que nos basamos
-lang: es_ES
-tags: 'PROYECT4, Estatutos, Información'
-date: 30/11/2022
+title: "Estatutos"
+categories:
+  - PROYECT4
+tags:
+  - legal
 permalink: /estatutos/
 published: true
 ---
