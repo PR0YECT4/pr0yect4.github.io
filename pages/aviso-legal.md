@@ -4,6 +4,8 @@ categories:
   - PROYECT4
 tags:
   - legal
+permalink: /aviso-legal/
+published: true
 ---
 
 ## Aviso Legal y Política de Privacidad
