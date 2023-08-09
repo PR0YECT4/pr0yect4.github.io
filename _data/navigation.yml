@@ -2,8 +2,8 @@
 main:
   - title: "Estatutos"
     url: /estatutos/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Aviso Legal"
+     url: /aviso-legal/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
