@@ -6,7 +6,6 @@ categories:
 
 tags:
   - arbol canario
-  - 2022
 ---
 
 # Día del árbol Canario 2022
