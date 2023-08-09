@@ -1,6 +1,6 @@
 ---
 title: legal
 layout: tag
-permalink: tags/#legal
+permalink: /tags/#legal
 taxonomy: legal
 ---
